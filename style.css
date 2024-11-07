@@ -1,0 +1,10 @@
+h1{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+h1:hover{
+    color: black;
+}
